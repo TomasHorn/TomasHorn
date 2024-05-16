@@ -20,6 +20,6 @@
 - I started studying programming from YouTube videos around the year 2022, and in 2023, I joined UNTREF and started my first course in Web Development
 
 ### 📫 Where to find me
-- [LinkedIn](https://linkedin.com/in/stephenajulu)
+- [LinkedIn](https://linkedin.com/in/tomashorn)
 - [Instagram](https://instagram.com/_tomy.h/)
 - [Gmail](tomyhorn.12@gmail.com)
