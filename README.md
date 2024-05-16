@@ -14,6 +14,11 @@
 ### My future objectives
 <p>After this bootcamp I'm attending, I want to pursue a career in backend development at CoderHouse. CoderHouse is an online platform where you can learn programming, UX/UI design, and many other things related to IT.</p>
 
+### About Me
+- I'm 21 years old born in a little town called General La Madrid in Argentina.
+- I love games
+- I started studying programming from YouTube videos around the year 2022, and in 2023, I joined UNTREF and started my first course in Web Development
+
 ### 📫 Where to find me
 - [LinkedIn](https://linkedin.com/in/stephenajulu)
 - [Instagram](https://instagram.com/_tomy.h/)
