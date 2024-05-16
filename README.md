@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2 align="center">Hello there! My name is Tomas Horn.</h2>
+<p align="center">I'm studying Full Stack Development at Universidad Tres de Febrero (UNTREF) in Argentina.</p>
 
-<!--
-**TomasHorn/TomasHorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Here, I'll be posting my repositories with all the activities I'll be doing so you all can see my progress.</p>
 
-Here are some ideas to get you started:
+### 📖 What am currently learning
+- Full Stack Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What i've learned so far
+- HTML5
+- CSS
+- A little of Javascript
+
+### My future objectives
+<p>After this bootcamp I'm attending, I want to pursue a career in backend development at CoderHouse. CoderHouse is an online platform where you can learn programming, UX/UI design, and many other things related to IT.</p>
+
+### 📫 Where to find me
+- [LinkedIn](https://linkedin.com/in/stephenajulu)
+- [Instagram](https://instagram.com/_tomy.h/)
+- [Gmail](tomyhorn.12@gmail.com)
